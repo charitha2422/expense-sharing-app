@@ -2,6 +2,9 @@
 
 A backend system for an Expense Sharing Application (like Splitwise) built with Node.js, Express.js, and MongoDB (Mongoose).
 
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/c9201676-9d0e-4752-a67e-145666992b1b" />
+
+
 ## Features
 
 1. **User Management**: Create and manage users
