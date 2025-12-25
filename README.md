@@ -1,4 +1,4 @@
-# Expense Sharing Application Backend
+# Expense Sharing Application 
 
 A backend system for an Expense Sharing Application (like Splitwise) built with Node.js, Express.js, and MongoDB (Mongoose).
 
